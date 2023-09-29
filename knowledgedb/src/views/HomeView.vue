@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
-    <HelloWorld msg="KnowledgeDB by Masoud"/>
+    <HelloWorld msg="KnowledgeDB by Masoud - step 1"/>
   </div>
 </template>
 
